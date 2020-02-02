@@ -15,6 +15,7 @@ psycopg2-binary = "*"
 numpy = "*"
 sklearn = "*"
 basilica = "*"
+tweepy = "*"
 
 [requires]
 python_version = "3.7"
